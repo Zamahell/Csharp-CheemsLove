@@ -1,0 +1,10 @@
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\bin\Debug\Quieres ser mi Clik.exe.config
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\bin\Debug\Quieres ser mi Clik.exe
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\bin\Debug\Quieres ser mi Clik.pdb
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\obj\Debug\Quieres ser mi Clik.csproj.AssemblyReference.cache
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\obj\Debug\Quieres_ser_mi_Clik.Form1.resources
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\obj\Debug\Quieres_ser_mi_Clik.Properties.Resources.resources
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\obj\Debug\Quieres ser mi Clik.csproj.GenerateResource.cache
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\obj\Debug\Quieres ser mi Clik.csproj.CoreCompileInputs.cache
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\obj\Debug\Quieres ser mi Clik.exe
+C:\Users\Lukas-Zama\Desktop\6to Semestre\Quieres ser mi Clik\Quieres ser mi Clik\obj\Debug\Quieres ser mi Clik.pdb
